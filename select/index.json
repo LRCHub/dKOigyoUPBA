@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ましゅまろ☆キッス",
+  "base_artist": "諸星きらり (CV: 松嵜 麗)",
+  "createdAt": "2026-03-01T11:27:05.885664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス [ORT]",
+      "artist": "諸星きらり(CV:松嵜麗)",
+      "has_synced": false,
+      "path": "select/01_ましゅまろ☆キッス_[ORT]_諸星きらり(CV_松嵜麗).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス (オリジナル・カラオケ)",
+      "artist": "諸星きらり (CV 松嵜麗)",
+      "has_synced": false,
+      "path": "select/02_ましゅまろ☆キッス_(オリジナル・カラオケ)_諸星きらり_(CV_松嵜麗).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス",
+      "artist": "諸星きらり (CV 松嵜麗)",
+      "has_synced": false,
+      "path": "select/03_ましゅまろ☆キッス_諸星きらり_(CV_松嵜麗).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス",
+      "artist": "松嵜麗",
+      "has_synced": false,
+      "path": "select/04_ましゅまろ☆キッス_松嵜麗.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス",
+      "artist": "諸星きらり; 松嵜麗",
+      "has_synced": false,
+      "path": "select/05_ましゅまろ☆キッス_諸星きらり;_松嵜麗.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス",
+      "artist": "諸星きらり(CV:松嵜麗)",
+      "has_synced": false,
+      "path": "select/06_ましゅまろ☆キッス_諸星きらり(CV_松嵜麗).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス",
+      "artist": "諸星きらり",
+      "has_synced": false,
+      "path": "select/07_ましゅまろ☆キッス_諸星きらり.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ましゅまろ☆キッス (オリジナル・カラオケ)",
+      "artist": "諸星きらり",
+      "has_synced": false,
+      "path": "select/08_ましゅまろ☆キッス_(オリジナル・カラオケ)_諸星きらり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ましゅまろ☆キッス",
+      "artist": "諸星きらり(CV:松嵜麗)",
+      "has_synced": false,
+      "path": "select/pl_01_ましゅまろ☆キッス_諸星きらり(CV_松嵜麗).txt"
+    }
+  ]
+}
